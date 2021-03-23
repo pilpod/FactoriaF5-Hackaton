@@ -1,3 +1,29 @@
+# Hackaton de Factoria F5 (23/03/2021)
+
+## Backend
+- Deploy de backend en heroku (https://vast-stream-46882.herokuapp.com/)
+- GitHub Repositorio Frontend (https://github.com/AbrahamMdez/hackaton-front-end)
+
+Se ha decido por separar el Frontend del Backend mediante llamadas a API
+
+Urls de consulta:
+- https://vast-stream-46882.herokuapp.com/api/register
+- https://vast-stream-46882.herokuapp.com/api/login
+- https://vast-stream-46882.herokuapp.com/api/logout
+- https://vast-stream-46882.herokuapp.com/api/user
+- https://vast-stream-46882.herokuapp.com/api/user/{id}/tasks
+- https://vast-stream-46882.herokuapp.com/api/tasks
+- https://vast-stream-46882.herokuapp.com/api/tasks/{id}
+
+
+# Participantes
+- Andrea Cevallos
+- Abraham Menéndez
+- Marianna Maldonado
+- Carmen Pérez
+- Giacomo Corso
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
